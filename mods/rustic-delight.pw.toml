@@ -1,0 +1,13 @@
+name = "Rustic Delight"
+filename = "rusticdelight-forge-1.20.1-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e6a3ea422e19b59be80e385556a3a112f561466"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5889298
+project-id = 1106612

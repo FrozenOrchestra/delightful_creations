@@ -1,0 +1,13 @@
+name = "Delightful Creations"
+author = "FrozenOrchestra"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "683e290c53fc5307f849687a6b60c61dd2f5f20afe1ee6e8ed7500e6a3be17fc"
+
+[versions]
+forge = "47.3.12"
+minecraft = "1.20.1"
