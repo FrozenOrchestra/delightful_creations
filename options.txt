@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:5
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","Moonlight Mods Dynamic Assets","file/SodiumTranslations.zip","file/Stuffed_Allay_1.2.zip","file/chonky-bee-girls-1.5.zip","file/Cat Girls v1.0.zip","file/Creeper Girl v1.0.1.zip","file/Enderdragon Girl.zip","file/Enderwomen.zip","file/Endergirl v1.0.zip","file/Fox Girl.zip","file/Ghast Girl.zip","file/Iron Girl.zip","file/Milk Maid.zip","file/Phantom Girl.zip","file/Phoenix SC Chan v1.2.zip","file/Pigirls v1.1.zip","file/Pillagirls v1.0.zip","file/Sheep Girl.zip","file/Shukler Girl.zip","file/Skeleton Girls.zip","file/Snowgirl.zip","file/Villagirls v1.1.zip","file/Warden Girl.zip","file/Wither Girl.zip","file/Wolf Girl v1.2.zip","file/Zombie Girls 1.4.zip","file/Krakens and Mermaids.zip"]
-incompatibleResourcePacks:["file/Stuffed_Allay_1.2.zip","file/chonky-bee-girls-1.5.zip","file/Cat Girls v1.0.zip","file/Creeper Girl v1.0.1.zip","file/Enderwomen.zip","file/Endergirl v1.0.zip","file/Pigirls v1.1.zip","file/Pillagirls v1.0.zip","file/Skeleton Girls.zip","file/Snowgirl.zip","file/Villagirls v1.1.zip","file/Krakens and Mermaids.zip"]
+resourcePacks:["vanilla","mod_resources","fabric","Moonlight Mods Dynamic Assets","file/SodiumTranslations.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:""
