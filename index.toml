@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "7f876966bcc3e094478604590965f7e7ac436f394c126a51df267bf13ec022fe"
-
-[[files]]
 file = "config/bocchud.json"
 hash = "7a89192a39e9cf643ce3871779a4b5ea9db2bed3b9b8fa67cef2a2af9a8e8c4c"
 
