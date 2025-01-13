@@ -577,6 +577,11 @@ hash = "62680ff9bc230848ecb244a18b3253f8f921ce49d1f3c67746967ba7c2361990"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "dacf9f35289ff527e573d6c2b7ddd96311f11083fd998980f42123997e88d01d"
+metafile = true
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true

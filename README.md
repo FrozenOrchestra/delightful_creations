@@ -104,6 +104,7 @@ packwiz curseforge export
 - [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/projects/388800)
 - [Sodium/Embeddium Dynamic Lights](https://www.curseforge.com/projects/551736)
 - [Skin Layers 3D (Fabric/Forge)](https://www.curseforge.com/projects/521480)
+- [Trade Cyclig](https://www.curseforge.com/projects/570431)
 - [Xaero's Minimap](https://www.curseforge.com/projects/263420)
 - [Xaero's World Map](https://www.curseforge.com/projects/317780)
 - [Yeetus Experimentus](https://www.curseforge.com/projects/635427)
