@@ -78,7 +78,7 @@ packwiz curseforge export
 - [Rustic Delight](https://www.curseforge.com/projects/1106612)
 - [Supplementaries's Delight](https://www.curseforge.com/projects/1108499)
 
-### UI/ Visual
+### UI/ / Audio/ Visual
 
 - [AppleSkin](https://www.curseforge.com/projects/248787)
 - [BoccHUD](https://www.curseforge.com/projects/916504)
@@ -91,6 +91,7 @@ packwiz curseforge export
 - [EMI Loot](https://www.curseforge.com/projects/681783)
 - [EMI Ores](https://www.curseforge.com/projects/974009)
 - [EMI Trades (Villager Trading EMI Plugin)](https://www.curseforge.com/projects/735523)
+- [Extreme sound muffler - (Neo)Forge](https://www.curseforge.com/projects/363363)
 - [Iris & Oculus Flywheel Compat](https://www.curseforge.com/projects/659897)
 - [Jade 🔍](https://www.curseforge.com/projects/324717)
 - [Jade Addons (NeoForge)](https://www.curseforge.com/projects/583345)
